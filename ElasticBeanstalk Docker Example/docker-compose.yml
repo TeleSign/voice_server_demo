@@ -1,0 +1,5 @@
+version: '3'
+services:
+  telesign:
+    container_name: telesign
+    build: .
