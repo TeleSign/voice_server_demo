@@ -1,3 +1,3 @@
 # voice_server_demo
 
-Here are some integration examples to help you get started using Telesign's voice product!
+The projects inside each folder contain boilerplate code to help build your voice systems. Additionally, in each project you will find step-by-step guides to deploy your server code on AWS.
