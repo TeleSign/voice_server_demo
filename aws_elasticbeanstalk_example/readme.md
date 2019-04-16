@@ -6,7 +6,7 @@ Sign up for an AWS Account
 --------------------------
 If you do not have an AWS account, you need to sign up for one. If you already have one, skip these steps and log in. Otherwise, do the following: 
 1.	Go to https://aws.amazon.com. 
-2.	Click Create a Free Account. 
+2.	Click **Create a Free Account**. 
 3.	Follow the instructions. 
 4.	Once you have an account you can proceed to the next section.
 
